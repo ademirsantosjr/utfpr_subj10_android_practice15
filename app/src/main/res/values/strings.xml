@@ -1,7 +1,10 @@
 <resources>
     <string name="app_name">SupportDifferentLanguages</string>
-    <string name="first_name">nome</string>
+    <string name="first_name">Nome</string>
     <string name="last_name">Sobrenome</string>
-    <string name="sumit">Enviar</string>
+    <string name="submit">Enviar</string>
     <string name="clear">Limpar</string>
+    <string name="full_name">Nome Completo:</string>
+    <string name="new_record">Novo Cadastro</string>
+    <string name="welcome_message">Olá, bem vindo ao exemplo de internacionalização!</string>
 </resources>
