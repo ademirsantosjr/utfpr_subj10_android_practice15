@@ -7,5 +7,5 @@
     <string name="clear">Limpar</string>
     <string name="full_name">Nome Completo: %1$s %2$s</string>
     <string name="new_record">Novo Cadastro</string>
-    <string name="welcome_message">Olá, bem vindo ao exemplo de internacionalização!</string>
+    <string name="welcome_message">Olá, bem vindo ao Aplicativo de Exemplo!</string>
 </resources>

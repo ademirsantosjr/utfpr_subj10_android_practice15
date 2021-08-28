@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" پشتیبانی از زبانهای مختلف"</string>
+    <string name="first_name">نام کوچک</string>
+    <string name="last_name">"نام خانوادگی "</string>
+    <string name="submit">ارسال</string>
+    <string name="clear">روشن</string>
+    <string name="new_record">"رکورد جدید "</string>
+    <string name="welcome_message">سلام! به مثال برنامه خوش آمدید</string>
+    <string name="full_name">%1$s %2$s نام و نام خانوادگی</string>
+</resources>

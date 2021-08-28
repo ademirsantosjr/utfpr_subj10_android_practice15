@@ -6,6 +6,6 @@
     <string name="clear">Clear</string>
     <string name="full_name">Full Name: %1$s %2$s</string>
     <string name="new_record">New Record</string>
-    <string name="welcome_message">Hello! Welcome to the Support to Different Languages App Example</string>
+    <string name="welcome_message">Hello! Welcome to the App Example</string>
     <string name="utfpr" translatable="false">UTFPR</string>
 </resources>
