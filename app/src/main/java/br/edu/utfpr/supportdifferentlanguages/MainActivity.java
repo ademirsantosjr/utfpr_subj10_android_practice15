@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         String lastName = editTextLastName.getText().toString();
 
         Toast.makeText(this,
-                getString(R.string.full_name) + " " + firstName + " " + lastName,
+                getString(R.string.full_name,firstName, lastName),
                 Toast.LENGTH_LONG).show();
     }
 
